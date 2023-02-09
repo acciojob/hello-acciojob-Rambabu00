@@ -1,9 +1,9 @@
-#job{
+main{
 	width: 150px;
 	height: 150px;
 	background-color: black;
 }
-.hello-accio{
+p{
 	color: white;
 	marigin-left:32px;
 	padding: 10px;
